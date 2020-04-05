@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://unmeshchow:Qgns8VYYafVfZJ5ub6@monadcomputer-nfgul.mongodb.net/contactkeeper?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://unmeshchow:Qgns8VYYafVfZJ5ub6@monadcomputer-nfgul.mongodb.net/contactkeeper?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
 }
